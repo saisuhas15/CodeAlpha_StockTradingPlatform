@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+out/
+
+# Serialized account data
+data/*.dat
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
